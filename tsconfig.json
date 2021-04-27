@@ -8,7 +8,8 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@config/*": ["./src/config/*"]
+      "@config/*": ["./src/config/*"],
+      "@component/*": ["./src/component/*"]
     },
     "allowJs": true,
     "skipLibCheck": true,
